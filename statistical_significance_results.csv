@@ -1,0 +1,16 @@
+State,Metric,P-value,Significant
+Tennessee,Worker Death Rate,0.31638491644158573,No
+Tennessee,Hospitalization Rate,0.4407282303971556,No
+Tennessee,Mortality Rate,0.0036463818174736202,Yes
+Texas,Worker Death Rate,0.49821601882215905,No
+Texas,Hospitalization Rate,,Insufficient Data
+Texas,Mortality Rate,0.0006316318516744662,Yes
+California,Worker Death Rate,0.14761959350458664,No
+California,Hospitalization Rate,0.1159479958021505,No
+California,Mortality Rate,0.01903296395474355,Yes
+Georgia,Worker Death Rate,0.06709899577146437,No
+Georgia,Hospitalization Rate,,Insufficient Data
+Georgia,Mortality Rate,0.007457222128363162,Yes
+Louisiana,Worker Death Rate,0.7478124022738479,No
+Louisiana,Hospitalization Rate,0.04464572344388898,Yes
+Louisiana,Mortality Rate,0.7869620973903216,No
